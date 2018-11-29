@@ -45,3 +45,22 @@ font-size: .875rem;
   background-color: #fff;
   color: #000;
 }
+
+.btn:hover {
+  background-color: #000;
+}
+
+.btn-subtle:hover{
+  background-color: #666;
+  border-color: #666;
+}
+
+.btn-ghost:hover{
+  background-color: #333;
+  color: #fff;
+}
+
+.btn-warning:hover{
+  background-color: #933;
+  border-color: #933;
+}
