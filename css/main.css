@@ -13,18 +13,18 @@ div {
 }
 
 .btn {
-background-color: #333;
-color: #fff;
-text-decoration: none;
-padding: .4em .75em .3em;
-border-radius: 8px;
-font-size: 1.125rem;
-display: inline-block;
-border: 3px solid #333;
+  background-color: #333;
+  color: #fff;
+  text-decoration: none;
+  padding: .4em .75em .3em;
+  border-radius: 8px;
+  font-size: 1.125rem;
+  display: inline-block;
+  border: 3px solid #333;
 }
 
 .btn-small {
-font-size: .875rem;
+  font-size: .875rem;
 }
 
 .btn-big {
@@ -50,17 +50,17 @@ font-size: .875rem;
   background-color: #000;
 }
 
-.btn-subtle:hover{
+.btn-subtle:hover {
   background-color: #666;
   border-color: #666;
 }
 
-.btn-ghost:hover{
+.btn-ghost:hover {
   background-color: #333;
   color: #fff;
 }
 
-.btn-warning:hover{
+.btn-warning:hover {
   background-color: #933;
   border-color: #933;
 }
